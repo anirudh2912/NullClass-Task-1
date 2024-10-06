@@ -1,0 +1,13 @@
+GYM-Bot Chatbot
+
+GYM-Bot is a simple chatbot built using Python, Tkinter, and NLP. It responds to user queries, performs web searches, displays the current time, and tracks analytics like query count, common topics, and user satisfaction ratings.
+
+Features:
+Responds to predefined intents
+Special commands: exit, search, time
+Clear and save chat options
+User satisfaction ratings (1 to 5)
+Analytics: query count, common topics, satisfaction
+Running the Chatbot:
+Install required libraries (numpy, nltk, keras, tensorflow).
+Customize intents in intents.json for new responses.
